@@ -1,0 +1,16 @@
+{
+  "name": "diton-profile-bot",
+  "version": "1.0.0",
+  "description": "디톤 프로필 조회 봇 - 웹에서 서버 멤버 프로필을 조회하고 봇 상태메시지를 변경합니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "express": "^4.21.2"
+  }
+}
